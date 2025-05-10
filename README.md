@@ -6,4 +6,4 @@ This is an interactive digital narrative intended to meet the following learning
 
 You can play the game online here: https://alyssafink.itch.io/duck-life-save-the-pond
 
-This repository contains the original Twine file and a toolkit that describes how the game was made.
+This repository contains the original Twine file and a toolkit that describes how the game was made (Graduate Student Toolkit).
